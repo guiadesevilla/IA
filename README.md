@@ -16,14 +16,14 @@
         header, footer {
             background-color: #A65E2E;
             text-align: center;
-            padding: 20px 0;
+            padding: 20 0;
         }
         nav ul {
             list-style-type: none;
             padding: 0;
             display: flex;
             justify-content: center;
-            gap: 20px;
+            gap: 20;
         }
         nav ul li {
             display: inline;
@@ -34,11 +34,11 @@
             font-weight: bold;
         }
         section {
-            margin: 20px;
-            padding: 20px;
-            background-color: rgba(255, 255, 255, 0.8);
-            border-radius: 10px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            margin: 20;
+            padding: 20;
+            background-color: (255, 255, 255, 0.8);
+            border-radius: 10;
+            box-shadow: 0 0 10 (0, 0, 0, 0.1);
         }
         h1, h2 {
             color: #FFA500;
