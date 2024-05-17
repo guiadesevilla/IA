@@ -5,7 +5,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sevilla - Descubre la ciudad</title>
     <style>
-        /* Estilos CSS */
         body {
             font-family: Roboto, Arial, sans-serif;
             margin: 0;
